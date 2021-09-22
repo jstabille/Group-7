@@ -35,7 +35,7 @@ Better preparation for natural disasters can minimize destruction and improve re
 ## Description of Data Exploration Phase
 ### Dataset
 
-Dataset downloaded from Kaggle.com, US USDA*, and Wikipedia.
+Our Dataset was downloaded from Kaggle.com, US USDA*, and Wikipedia.
 
 #### Link to Raw Datasets
 
