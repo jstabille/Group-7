@@ -37,7 +37,7 @@ Better preparation for natural disasters can minimize destruction and improve re
 
 Dataset downloaded from Kaggle.com, US USDA*, and Wikipedia.
 
-##### Link to Raw Datasets
+#### Link to Raw Datasets
 
 US Natural Disaster Declarations | Disasters
 
