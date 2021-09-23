@@ -10,7 +10,7 @@ Google slides link: https://docs.google.com/presentation/d/1TlmPHNqpeHwBpQ29GSwo
 - Circle - Jeferson Stabille
 - X - Emma Wallace
 
-## Software
+## Software 
 - pgAdmin 4
 - Python -version 3.7
 - Jupyter notebook -version 6.1.4
@@ -52,6 +52,28 @@ List of U.S. state and territory abbreviations | US States
 https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations
 
 County FIPS Codes | NRCS (usda.gov) | FIPS
+
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697
+
+### Raw Data
+
+Our datasets were downloaded from Kaggle.com, US USDA*, and Wikipedia.
+
+#### Link to Raw Datasets
+
+- US Natural Disaster Declarations | Disasters
+
+https://www.kaggle.com/headsortails/us-natural-disaster-declarations
+
+- Earth Surface Temperature Data | Temperature
+
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
+
+- List of U.S. state and territory abbreviations | US States
+
+https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations
+
+- County FIPS Codes | NRCS (usda.gov) | FIPS
 
 https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697
 
